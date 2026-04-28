@@ -20,10 +20,6 @@ The goal is to answer real business questions such as:
 - What actions can improve customer retention?
 
 ---
-
-## 📁 Project Structure
----
-
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
@@ -98,12 +94,12 @@ Source: [Kaggle — Telco Customer Churn](https://www.kaggle.com/datasets/blastc
 
 ## 💡 Business Recommendations
 
-1.  **Incentivise Long-Term Contracts** — Month-to-month customers churn ore than two-year customers
-2.  **Promote Automatic Payments** — Electronic check users churn at 45.29% vs 15.24% for auto-pay
-3.  **Invest in Early Onboarding** — Churn is highest in the first 1–5 months of tenure
-4.  **Investigate Fiber Optic Quality** — Premium service with highest churn suggests unmet expectations
-5.  **Senior Customer Retention Programme** — Senior citizens churn at nearly double the non-senior rate
-6.  **Prioritise Retention Over Acquisition** — $2.86M lost to churn; retaining customers is 5 times cheaper than acquiring new ones
+1.  Incentivise Long-Term Contracts — Month-to-month customers churn ore than two-year customers
+2.  Promote Automatic Payments — Electronic check users churn at 45.29% vs 15.24% for auto-pay
+3.  Invest in Early Onboarding — Churn is highest in the first 1–5 months of tenure
+4.  Investigate Fiber Optic Quality — Premium service with highest churn suggests unmet expectations
+5.  Senior Customer Retention Programme — Senior citizens churn at nearly double the non-senior rate
+6.  Prioritise Retention Over Acquisition — $2.86M lost to churn; retaining customers is 5 times cheaper than acquiring new ones
 
 ---
 
@@ -111,7 +107,7 @@ Source: [Kaggle — Telco Customer Churn](https://www.kaggle.com/datasets/blastc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/telco-churn-analysis.git
+git clone https://github.com/khethaniMugeri/FUTURE_DS_02.git
 ```
 
 2. Install dependencies:
